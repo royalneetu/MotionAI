@@ -1,0 +1,31 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch checkpoints and large binaries
+*.pt
+*.pth
+*.h5
+*.keras
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Database files
+database/*.db
+
+# Temporary and output files
+outputs/*.mp4
+outputs/*.avi
+.streamlit/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+# Frontend build output and installed packages
+frontend/node_modules/
+frontend/dist/

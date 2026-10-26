@@ -1,0 +1,15 @@
+Human Activity Recognition - Test Evaluation Report
+Overall Accuracy: 94.44%
+
+              precision    recall  f1-score   support
+
+     Walking     0.7500    1.0000    0.8571         3
+     Running     1.0000    0.6667    0.8000         3
+     Sitting     1.0000    1.0000    1.0000         3
+    Standing     1.0000    1.0000    1.0000         3
+  Lying_Down     1.0000    1.0000    1.0000         3
+     Falling     1.0000    1.0000    1.0000         3
+
+    accuracy                         0.9444        18
+   macro avg     0.9583    0.9444    0.9429        18
+weighted avg     0.9583    0.9444    0.9429        18
